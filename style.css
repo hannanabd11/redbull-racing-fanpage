@@ -1,0 +1,45 @@
+h1{ 
+    text-shadow: 3px 3px 5px rgb(186, 113, 36);
+    text-align: center;
+    background-color: rgb(193, 16, 45);
+    border-style: double black;
+    border-width: 5px;
+    border-radius: 5px;
+
+}
+body{
+    background-color:black;
+}
+
+h1{
+    border-top: 40px;
+     text-shadow: 3px 3px 5px rgb(186, 113, 36);
+    text-align: center;
+    background-color: rgb(193, 16, 45);
+    border-style: double black;
+    border-width: 5px;
+    border-radius: 5px;
+}
+h1{
+     border-top: 40px;
+     text-shadow: 3px 3px 5px rgb(186, 113, 36);
+    text-align: center;
+    background-color: rgb(193, 16, 45);
+    border-style: double black;
+    border-width: 5px;
+    border-radius: 5px;
+
+}
+.thelink{
+    color: aliceblue;
+    text-align: center;
+}
+.site-footer {
+  background-color: #0d0d0d; /* dark background */
+  color: #ebe9e2;            /* bright yellow text */
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
